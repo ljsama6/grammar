@@ -8,7 +8,7 @@ public class Class {
         String name;
         int age;
         String skin;
-        int weight;
+        double weight;
     }
     public static void main(String[] args){
         //定义函数并赋值
