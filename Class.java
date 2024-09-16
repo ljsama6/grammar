@@ -3,6 +3,7 @@ package grammar;
 import java.util.Scanner;
 
 public class Class {
+    //定义类
     static class Cat {
         String name;
         int age;
